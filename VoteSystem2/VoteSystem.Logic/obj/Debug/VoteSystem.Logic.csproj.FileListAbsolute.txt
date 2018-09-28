@@ -1,0 +1,10 @@
+D:\c#\Core学习\VoteSystem\VoteSystem.Logic\bin\Debug\VoteSystem.Logic.dll
+D:\c#\Core学习\VoteSystem\VoteSystem.Logic\bin\Debug\VoteSystem.Logic.pdb
+D:\c#\Core学习\VoteSystem\VoteSystem.Logic\obj\Debug\VoteSystem.Logic.csprojResolveAssemblyReference.cache
+D:\c#\Core学习\VoteSystem\VoteSystem.Logic\obj\Debug\VoteSystem.Logic.dll
+D:\c#\Core学习\VoteSystem\VoteSystem.Logic\obj\Debug\VoteSystem.Logic.pdb
+E:\VS2015.2016实验室程序\VoteSystem\VoteSystem.Logic\obj\Debug\VoteSystem.Logic.csprojResolveAssemblyReference.cache
+E:\VS2015.2016实验室程序\VoteSystem\VoteSystem.Logic\obj\Debug\VoteSystem.Logic.dll
+E:\VS2015.2016实验室程序\VoteSystem\VoteSystem.Logic\obj\Debug\VoteSystem.Logic.pdb
+E:\VS2015.2016实验室程序\VoteSystem\VoteSystem.Logic\bin\Debug\VoteSystem.Logic.dll
+E:\VS2015.2016实验室程序\VoteSystem\VoteSystem.Logic\bin\Debug\VoteSystem.Logic.pdb
